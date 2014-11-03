@@ -1,0 +1,16 @@
+{
+  "name": "garethellis-server-sent-events",
+  "version": "0.0.2",
+  "description": "Output from White October NodeJS workshop 03NOV14",
+  "main": ".specimin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "garethellis <garethellis+npm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "superagent": "^0.20.0",
+    "concat-stream": "^1.4.6"
+  }
+}
