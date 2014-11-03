@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "garethellis <garethellis+npm@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garethellis36/server-sent-events"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
